@@ -19,6 +19,7 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [cuentas-publicas](https://github.com/jenarvaezg/cuentas-publicas) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
 | [tu-ipc](https://github.com/jenarvaezg/tu-ipc) | Personal CPI calculator based on Spain's INE data | TypeScript |
 | [MagicHub](https://github.com/jenarvaezg/MagicHub) | Backend for magichub.io — a platform for magic enthusiasts | Go |
 | [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cuñado | Python |
