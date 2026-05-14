@@ -23,7 +23,7 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 | [loquevotan](https://loquevotan.es) | Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. | Vue / Python |
 | [cuentas-publicas](https://cuentas-publicas.es) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
 | [tu-ipc](https://tu-ipc.es) | Personal CPI calculator based on Spain's INE data | TypeScript |
-| [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cunado | Python |
+| [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cunado — the know-it-all brother-in-law parody | Python |
 <!-- PROJECTS:END -->
 
 ## Advent of Code
