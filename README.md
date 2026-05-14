@@ -44,3 +44,4 @@ I enjoy solving Advent of Code in a different language each year:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenarvaezg/)
 [![Website](https://img.shields.io/badge/Website-000?style=flat&logo=github&logoColor=white)](https://jenarvaezg.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jenarvaezg@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](Profile.pdf)

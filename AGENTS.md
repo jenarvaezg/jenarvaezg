@@ -56,7 +56,7 @@ El README del perfil es **solo en inglés**. La versión bilingüe es responsabi
 
 - **Commits**: conventional commits — `docs: update featured projects`, `chore: refresh AoC table`.
 - **No añadir build steps**: este repo debe seguir siendo trivial. Cualquier lógica vive en `jenarvaezg.github.io`.
-- **`Profile.pdf`**: CV en PDF. Actualizarlo manualmente cuando cambie el currículum.
+- **`Profile.pdf`**: CV en PDF, trackeado en el repo y enlazado desde la sección Connect del README. **El mismo archivo se sirve también desde `jenarvaezg.github.io/public/cv.pdf`** (visible publicamente en `https://jenarvaezg.github.io/cv.pdf` y descargable desde el botón del hero). Cuando actualices el CV, **reemplaza ambos archivos en el mismo PR** (o secuencia de commits) para evitar drift.
 
 ## Estructura
 
