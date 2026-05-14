@@ -17,27 +17,27 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 
 ## Featured Projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [loquevotan](https://github.com/jenarvaezg/loquevotan) | Explore how each representative votes in the Spanish Congress | Vue / Python |
-| [cuentas-publicas](https://github.com/jenarvaezg/cuentas-publicas) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
-| [tu-ipc](https://github.com/jenarvaezg/tu-ipc) | Personal CPI calculator based on Spain's INE data | TypeScript |
-| [MagicHub](https://github.com/jenarvaezg/MagicHub) | Backend for magichub.io — a platform for magic enthusiasts | Go |
-| [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cuñado | Python |
-| [vigenere_breaker](https://github.com/jenarvaezg/vigenere_breaker) | XOR-Vigenère cipher breaker with key length guessing | C |
-| [ctff](https://github.com/jenarvaezg/ctff) | Capture The Flag Framework | Go |
-| [eth-scrapper](https://github.com/jenarvaezg/eth-scrapper) | Ethereum blockchain scraper | Go |
+| [loquevotan](https://loquevotan.es) | Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. | Vue / Python |
+| [cuentas-publicas](https://cuentas-publicas.es) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
+| [tu-ipc](https://tu-ipc.es) | Personal CPI calculator based on Spain's INE data | TypeScript |
+| [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cunado | Python |
+<!-- PROJECTS:END -->
 
 ## Advent of Code
 
 I enjoy solving Advent of Code in a different language each year:
 
+<!-- AOC:START -->
 ```
-2025 → TypeScript    2022 → Rust
-2024 → Python        2021 → Go
-2023 → Python        2020 → Rust
-                     2019 → Elixir
+2025 → TypeScript    2021 → Go
+2024 → Python        2020 → Rust
+2023 → Python        2019 → Elixir
+2022 → Rust
 ```
+<!-- AOC:END -->
 
 ## Connect
 
