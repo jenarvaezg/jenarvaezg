@@ -6,7 +6,7 @@ Repositorio especial de GitHub: el `README.md` de este repo se renderiza como la
 
 ### Featured Projects y Advent of Code son generados
 
-Las secciones marcadas con `<!-- PROJECTS:START --> ... <!-- PROJECTS:END -->` y `<!-- AOC:START --> ... <!-- AOC:END -->` en `README.md` **se generan automáticamente** desde el repositorio del portfolio:
+Las secciones marcadas con `<!-- PROJECTS:START --> ... <!-- PROJECTS:END -->` y `<!-- AOC:START --> ... <!-- AOC:END -->` en `README.md` **se generan automáticamente** desde el repositorio del portfolio. El bloque PROJECTS incluye un spotlight "Now building" (proyecto con `spotlight` en el JSON), listas agrupadas por `category` y estrellas en vivo (`⭐ N` cuando un repo tiene ≥ 3, refrescadas por cron semanal). Fuente canónica:
 
 ```
 ../jenarvaezg.github.io/src/data/projects.json
