@@ -9,7 +9,7 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 ## Tech Stack
 
 **Backend:** Python · Go · Node.js · Django · REST · gRPC
-**Frontend:** React · TypeScript · JavaScript
+**Frontend:** React · Next.js · TypeScript · JavaScript
 **Infrastructure:** Docker · Kubernetes · AWS · GCP · Jenkins · CI/CD
 **Security:** Pentesting · Vulnerability Analysis · Security Auditing · SIEM
 **Databases:** MongoDB · PostgreSQL
@@ -20,6 +20,7 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [worthline](https://github.com/jenarvaezg/worthline) | Local-first net worth dashboard for personal and household finances — tracks assets, debts, liquidity tiers, fund look-through and FIRE progress. | TypeScript / Next.js |
 | [loquevotan](https://loquevotan.es) | Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. | Vue / Python |
 | [cuentas-publicas](https://cuentas-publicas.es) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
 | [tu-ipc](https://tu-ipc.es) | Personal CPI calculator based on Spain's INE data | TypeScript |
