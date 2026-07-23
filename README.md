@@ -18,13 +18,23 @@ Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 
 ## Featured Projects
 
 <!-- PROJECTS:START -->
-| Project | Description | Tech |
-|---------|-------------|------|
-| [worthline](https://github.com/jenarvaezg/worthline) | Local-first net worth dashboard for personal and household finances — tracks assets, debts, liquidity tiers, fund look-through and FIRE progress. | TypeScript / Next.js |
-| [loquevotan](https://loquevotan.es) | Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. | Vue / Python |
-| [cuentas-publicas](https://cuentas-publicas.es) | Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending | TypeScript |
-| [tu-ipc](https://tu-ipc.es) | Personal CPI calculator based on Spain's INE data | TypeScript |
-| [cunhaobot](https://github.com/jenarvaezg/cunhaobot) | Telegram bot that talks like a Spanish cunado — the know-it-all brother-in-law parody | Python |
+### 🚧 Now building — [worthline](https://worthline-web.vercel.app) ([source](https://github.com/jenarvaezg/worthline))
+
+Local-first net worth dashboard for personal and household finances — tracks assets, debts, liquidity tiers, fund look-through and FIRE progress.
+
+- One dashboard for your whole household: shared ownership, liquidity tiers and fund look-through
+- Tracks FIRE progress against your own targets
+- Bun + Turborepo monorepo, RSC-first Next.js, mobile-ready domain packages
+
+**🇪🇸 Civic tech for Spain**
+
+- [loquevotan](https://loquevotan.es) — Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. `Vue / Python`
+- [cuentas-publicas](https://cuentas-publicas.es) — Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending `TypeScript`
+- [tu-ipc](https://tu-ipc.es) — Personal CPI calculator based on Spain's INE data `TypeScript` ⭐ 3
+
+**😄 Just for fun**
+
+- [cunhaobot](https://github.com/jenarvaezg/cunhaobot) — Telegram bot that talks like a Spanish cunado — the know-it-all brother-in-law parody `Python` ⭐ 6
 <!-- PROJECTS:END -->
 
 ## Advent of Code
