@@ -19,9 +19,8 @@ Las secciones marcadas con `<!-- PROJECTS:START --> ... <!-- PROJECTS:END -->` y
 2. Push a `main`.
 3. El workflow `.github/workflows/sync-profile.yml` del portfolio:
    - Checkout de este repo.
-   - Regenera el README con el script de sync.
-   - Abre (o actualiza) un PR rolling en la rama `sync/profile-readme` y habilita auto-merge.
-4. El PR se mergea solo en cuanto pasen los checks (este repo no tiene checks, así que es inmediato).
+   - Regenera el README con el script de sync (con `--enrich` para estrellas en vivo).
+   - Abre (o actualiza) un PR rolling en la rama `sync/profile-readme` y **lo mergea inmediatamente** (squash). Este repo no tiene checks ni branch protection, así que no se usa auto-merge (la API de auto-merge de GitHub requiere branch protection).
 
 **No hay que hacer nada manual.** Tu único trabajo es editar los JSONs en el portfolio.
 
@@ -29,7 +28,6 @@ Las secciones marcadas con `<!-- PROJECTS:START --> ... <!-- PROJECTS:END -->` y
 
 - Crear PAT fine-grained en GitHub limitado a `jenarvaezg/jenarvaezg` con permisos `Contents: write` + `Pull requests: write`.
 - Pegarlo como secret `PROFILE_SYNC_TOKEN` en `jenarvaezg.github.io` (Settings → Secrets and variables → Actions).
-- En este repo: Settings → General → "Allow auto-merge" activado.
 - Recordatorio en calendario para renovar el PAT antes de su expiración (default 1 año).
 
 #### Flujo manual (fallback)
