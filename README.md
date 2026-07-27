@@ -30,7 +30,7 @@ Local-first net worth dashboard for personal and household finances — tracks a
 
 - [loquevotan](https://loquevotan.es) — Explore how each representative votes in the Spanish Congress. Parliamentary transparency for citizens. `Vue / Python`
 - [cuentas-publicas](https://cuentas-publicas.es) — Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending `TypeScript`
-- [tu-ipc](https://tu-ipc.es) — Personal CPI calculator based on Spain's INE data `TypeScript` ⭐ 3
+- [tu-ipc](https://tu-ipc.es) — Personal CPI calculator based on Spain's INE data `TypeScript` ⭐ 4
 
 **😄 Just for fun**
 
