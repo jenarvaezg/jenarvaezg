@@ -24,7 +24,7 @@ Local-first net worth dashboard for personal and household finances — tracks a
 
 - One dashboard for your whole household: shared ownership, liquidity tiers and fund look-through
 - Tracks FIRE progress against your own targets
-- Bun + Turborepo monorepo, RSC-first Next.js, mobile-ready domain packages
+- A 39-tool LLM agent drafts changes to your ledger — and never applies them: a person confirms every one
 
 **🇪🇸 Civic tech for Spain**
 
@@ -32,9 +32,13 @@ Local-first net worth dashboard for personal and household finances — tracks a
 - [cuentas-publicas](https://cuentas-publicas.es) — Interactive dashboard of Spain's public finances — debt, pensions & COFOG spending `TypeScript`
 - [tu-ipc](https://tu-ipc.es) — Personal CPI calculator based on Spain's INE data `TypeScript` ⭐ 4
 
+**📈 Personal finance**
+
+- [coindex](https://github.com/jenarvaezg/coindex) — Local-first Android app that organises a Numista silver collection into proposals and sheets: which pieces of each catalogued series are in, and which are missing. `Kotlin / Android`
+
 **😄 Just for fun**
 
-- [cunhaobot](https://github.com/jenarvaezg/cunhaobot) — Telegram bot that talks like a Spanish cunado — the know-it-all brother-in-law parody `Python` ⭐ 6
+- [cunhaobot](https://github.com/jenarvaezg/cunhaobot) — Telegram bot that talks like a Spanish cuñado — the know-it-all brother-in-law parody `Python` ⭐ 6
 <!-- PROJECTS:END -->
 
 ## Advent of Code
