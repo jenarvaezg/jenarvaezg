@@ -2,12 +2,13 @@
 
 **Founding Engineer & Tech Lead** building products from zero to one.
 
-Full-stack engineer with a security mindset. My backend strengths are **Python** and **Go**, and I use **React** on the frontend. MSc in Cybersecurity, BSc in Telematics Engineering.
+Full-stack engineer with a security mindset. My backend strengths are **Python** and **Go**, and I use **React** on the frontend. Lately I build and operate LLM agents that write to real financial records — and the eval harness that decides which models are allowed to. MSc in Cybersecurity, BSc in Telematics Engineering.
 
 Currently at [Reveni](https://reveni.io) as Founding Engineer & Tech Lead since 2022.
 
 ## Tech Stack
 
+**AI / Agents:** LLM function-calling · eval harnesses · MCP · multimodal extraction · Vercel AI SDK
 **Backend:** Python · Go · Node.js · Django · REST · gRPC
 **Frontend:** React · Next.js · TypeScript · JavaScript
 **Infrastructure:** Docker · Kubernetes · AWS · GCP · Jenkins · CI/CD
